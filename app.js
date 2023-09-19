@@ -1,7 +1,7 @@
 const process=require('process')
 const suma=require('./suma')
 const resta=require('./resta')
-//const dividir=require('./dividir')
+const dividir=require('./dividir')
 const multiplicar = require ('./multiplicar')
 const {argv}= process
 
