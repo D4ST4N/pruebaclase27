@@ -9,13 +9,13 @@ function calculadora(comando,a,b) {
     switch (comando.toLowerCase()) {
         case "sumar":
             return suma(a,b)
-            break;
+            
         case "restar":
             return resta(a,b)
-            break
+            
         case "multiplicar":
             return multiplicar(a,b)
-            break
+            
         case "dividir":
             return dividir(a,b)
         default:
