@@ -1,5 +1,5 @@
 const process=require('process')
-const suma=require('require')
+const suma=require('./sumar')
 const resta=require('./resta')
 const dividir=require('./dividir')
 const multiplicar=require ('./multiplicar')
