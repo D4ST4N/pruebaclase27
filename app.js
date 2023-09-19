@@ -23,4 +23,4 @@ function calculadora(comando,a,b) {
     }
     
 }
-console.log(calculadora(arg[2],+argv[3],+argv[4]))
+console.log(calculadora(argv[2],+argv[3],+argv[4]))
